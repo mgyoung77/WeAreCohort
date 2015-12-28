@@ -16,7 +16,7 @@ Tech Tank Data Science Cohort (Class of 2016)
 | ---- | ---- | ---- | ---- | ---- |
 |  Dave Babbitt  |  Justin Hoffman  |  Kenneth MacDonald  |  KirstiRiehle  |  Elias White  |
 |  Matthew Brown  |  Ben Huber  |  Jamie Martin  |  Chelsea Ross  |  Scott Woolley  |
-|  Simon Coplan  |  Michael Kim  |  Alexander Newton  |  Stephanie Severe  |  Michael Young  |
+|  Simon Coplan  |  Michael Kim  |  Alexander Newton  |  Stephanie Severe  |  [Michael Young] (#michael-young)  |
 |  Ylonda Fauntleroy  |  Kristof Ladny  |  Steven Nutt  |  Julia Stevens  |  |
 |  [Jay Gendron](#jay-gendron)  |  Oliver Lee  |  Ben Price  |  Malachi Tatum  |  |
 
@@ -45,3 +45,14 @@ Tech Tank Data Science Cohort (Class of 2016)
 
 * _Contact Information:_ gerald.gendron@gmail.com; @jaygendron; (757) 372-5746 [to [top](#members)]
 
+## Michael Young
+#### _Computer Science Track (Belcamp Office)_
+* _Skills I can offer the team:_ data analysis, presentation development, public speaking, leadership, code development (but just learning R and python)
+
+* _Skills I am improving:_ R and python coding, statistics, machine learning, non-SQL databases
+
+* _During Tech Tank, I awant to...._ meeting more data scientists, establish myself as local leader in data science
+
+* _Favorite Quote:_ "Worrying is like a rocking chair. It gives you something to do, but it doesn't get you anywhere." - Van Wilder
+
+* _Contact Information_ young_michael@bah.com; 443.528.2650 [to [top](#members)]
